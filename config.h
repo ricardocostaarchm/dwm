@@ -1,9 +1,9 @@
 /* See LICENSE file for copyright and license details. */
 
 /* Constants */
-#define TERMINAL "alacritty"
-#define TERMCLASS "Alacritty"
-#define BROWSER "librewolf"
+#define TERMINAL "terminator"
+#define TERMCLASS "Terminator"
+#define BROWSER "firefox"
 
 /* appearance */
 static unsigned int borderpx  = 3;        /* border pixel of windows */
